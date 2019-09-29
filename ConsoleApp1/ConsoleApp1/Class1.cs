@@ -7,8 +7,7 @@ namespace ConsoleApp1
     class Class1
     {
         /*
-         * vdfsdf class1 yvi  azerty
-         * 
+         * vdfsdf class1 yvi     fsdfsdfdsfds    
          */
     }
 }
